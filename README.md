@@ -13,4 +13,4 @@ his project was created by following a YouTube tutorial and involves a comprehen
 
 ## Dataset
 The data for this project is sourced from the Kaggle dataset:
-- **Dataset Link:**(https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+- **Dataset Link:** [Movies dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
